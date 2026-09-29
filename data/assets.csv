@@ -1,0 +1,43 @@
+asset_id,entity_id,entity_name,asset_type,zone,criticality,telemetry_status,days_since_last_alert
+AST-001-01,CSE-001,National Power Grid Corporation,SCADA Master,OT Supervisory L2,High,BLIND_SILENT,42
+AST-001-02,CSE-001,National Power Grid Corporation,Core Router,Core IT,High,ACTIVE,0
+AST-001-03,CSE-001,National Power Grid Corporation,Database Cluster,Core IT,High,ACTIVE,2
+AST-001-04,CSE-001,National Power Grid Corporation,Domain Controller,Core IT,Medium,ACTIVE,1
+AST-001-05,CSE-001,National Power Grid Corporation,DMZ Firewall,Core IT,Medium,ACTIVE,1
+AST-001-06,CSE-001,National Power Grid Corporation,Payment Switch,Core IT,Medium,ACTIVE,1
+AST-002-01,CSE-002,Apex National Bank,SCADA Master,OT Supervisory L2,High,ACTIVE,0
+AST-002-02,CSE-002,Apex National Bank,Core Router,Core IT,High,ACTIVE,0
+AST-002-03,CSE-002,Apex National Bank,Database Cluster,Core IT,High,ACTIVE,3
+AST-002-04,CSE-002,Apex National Bank,Domain Controller,Core IT,Medium,ACTIVE,0
+AST-002-05,CSE-002,Apex National Bank,DMZ Firewall,Core IT,Medium,ACTIVE,0
+AST-002-06,CSE-002,Apex National Bank,Payment Switch,Core IT,Medium,ACTIVE,0
+AST-003-01,CSE-003,Bharat Telecom Ltd,SCADA Master,OT Supervisory L2,High,BLIND_SILENT,48
+AST-003-02,CSE-003,Bharat Telecom Ltd,Core Router,Core IT,High,ACTIVE,1
+AST-003-03,CSE-003,Bharat Telecom Ltd,Database Cluster,Core IT,High,ACTIVE,0
+AST-003-04,CSE-003,Bharat Telecom Ltd,Domain Controller,Core IT,Medium,ACTIVE,1
+AST-003-05,CSE-003,Bharat Telecom Ltd,DMZ Firewall,Core IT,Medium,ACTIVE,3
+AST-003-06,CSE-003,Bharat Telecom Ltd,Payment Switch,Core IT,Medium,ACTIVE,1
+AST-004-01,CSE-004,Metro Airport Authority,SCADA Master,OT Supervisory L2,High,ACTIVE,3
+AST-004-02,CSE-004,Metro Airport Authority,Core Router,Core IT,High,ACTIVE,2
+AST-004-03,CSE-004,Metro Airport Authority,Database Cluster,Core IT,High,ACTIVE,0
+AST-004-04,CSE-004,Metro Airport Authority,Domain Controller,Core IT,Medium,ACTIVE,1
+AST-004-05,CSE-004,Metro Airport Authority,DMZ Firewall,Core IT,Medium,ACTIVE,3
+AST-004-06,CSE-004,Metro Airport Authority,Payment Switch,Core IT,Medium,ACTIVE,2
+AST-005-01,CSE-005,Eastern Port Trust,SCADA Master,OT Supervisory L2,High,BLIND_SILENT,52
+AST-005-02,CSE-005,Eastern Port Trust,Core Router,Core IT,High,ACTIVE,1
+AST-005-03,CSE-005,Eastern Port Trust,Database Cluster,Core IT,High,ACTIVE,1
+AST-005-04,CSE-005,Eastern Port Trust,Domain Controller,Core IT,Medium,ACTIVE,2
+AST-005-05,CSE-005,Eastern Port Trust,DMZ Firewall,Core IT,Medium,ACTIVE,0
+AST-005-06,CSE-005,Eastern Port Trust,Payment Switch,Core IT,Medium,ACTIVE,0
+AST-006-01,CSE-006,Central Metro Rail,SCADA Master,OT Supervisory L2,High,ACTIVE,3
+AST-006-02,CSE-006,Central Metro Rail,Core Router,Core IT,High,ACTIVE,0
+AST-006-03,CSE-006,Central Metro Rail,Database Cluster,Core IT,High,ACTIVE,2
+AST-006-04,CSE-006,Central Metro Rail,Domain Controller,Core IT,Medium,ACTIVE,2
+AST-006-05,CSE-006,Central Metro Rail,DMZ Firewall,Core IT,Medium,ACTIVE,2
+AST-006-06,CSE-006,Central Metro Rail,Payment Switch,Core IT,Medium,ACTIVE,0
+AST-007-01,CSE-007,National Highway Authority,SCADA Master,OT Supervisory L2,High,ACTIVE,3
+AST-007-02,CSE-007,National Highway Authority,Core Router,Core IT,High,ACTIVE,0
+AST-007-03,CSE-007,National Highway Authority,Database Cluster,Core IT,High,ACTIVE,3
+AST-007-04,CSE-007,National Highway Authority,Domain Controller,Core IT,Medium,ACTIVE,0
+AST-007-05,CSE-007,National Highway Authority,DMZ Firewall,Core IT,Medium,ACTIVE,2
+AST-007-06,CSE-007,National Highway Authority,Payment Switch,Core IT,Medium,ACTIVE,2

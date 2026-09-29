@@ -1,0 +1,8 @@
+entity_id,name,sector,criticality,size,baseline_mttd,region,has_execution_gap,has_negative_space
+CSE-001,National Power Grid Corporation,Power & Energy,Tier-1 Sovereign,Very Large,18,Northern Grid,True,True
+CSE-002,Apex National Bank,Banking & Finance,Tier-1 Sovereign,Very Large,12,Western Financial Belt,True,False
+CSE-003,Bharat Telecom Ltd,Telecommunications,Tier-1 Sovereign,Large,15,National Backbone,False,True
+CSE-004,Metro Airport Authority,Civil Aviation,Tier-2 Vital,Medium,22,Capital Region,True,False
+CSE-005,Eastern Port Trust,Maritime Logistics,Tier-2 Vital,Medium,25,Eastern Seaboard,False,True
+CSE-006,Central Metro Rail,Urban Mass Transit,Tier-2 Vital,Medium,20,Central Corridor,False,False
+CSE-007,National Highway Authority,Transportation,Tier-3 Significant,Large,30,National Arterial,False,False
